@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484067468683",
+    "project_id": "pratice-e3f3e",
+    "storage_bucket": "pratice-e3f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484067468683:android:a2f560c1fe956d2968bb8e",
+        "android_client_info": {
+          "package_name": "com.firebasep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484067468683-qjum3n4cnuiulcagpp199nqni1qhi26b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasep",
+            "certificate_hash": "3f332b2a06ef9576b0f8cae412d2585e39e74091"
+          }
+        },
+        {
+          "client_id": "484067468683-umc3o4h6jmqpurlbu8h51mmb6dcn60jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31LZwodhZbq7-OtCfVny5La051dmqtq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484067468683-umc3o4h6jmqpurlbu8h51mmb6dcn60jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
